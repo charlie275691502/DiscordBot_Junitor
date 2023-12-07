@@ -2,7 +2,7 @@
 A discord bot automatically removes banned words and replies warning message
 
 ## Goal
-- 
+- ban the use of certain emojis from certain users. The bot will delete the emoji immediately.
 
 ## Prerequisite
 - Python >= 3.0
